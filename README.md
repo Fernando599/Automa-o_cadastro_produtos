@@ -17,5 +17,5 @@ Ele utiliza **pyautogui** para interagir com a interface gráfica e **openpyxl**
 ## O que aprendi
 
 - Usar a biblioteca PyAutoGUI para capturar posição do mouse.
-- Copiar informações com pyperclip.
-- Percorrer cada linha de uma planilhar pegar os dados de cada célula
+- Copiar informações com pyperclip que copia até palavras com acentos.
+- Percorrer cada linha de uma planilhar pegar os dados de cada célula.
